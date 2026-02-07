@@ -4,6 +4,8 @@ numpy
 scikit-learn
 nltk
 textblob
+seaborn
+matplotlib
 matplotlib
 seaborn
 imblearn
